@@ -27,3 +27,5 @@ Countries of Interest
 * Egypt
 * DRC
 * Tanzania
+
+Google Slides: https://docs.google.com/presentation/d/1eSoSxgsTULpK7yF4D4I-ac-L55_aBKueAE6wdizh7bk/edit?usp=sharing
