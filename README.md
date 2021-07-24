@@ -28,4 +28,7 @@ Countries of Interest
 * DRC
 * Tanzania
 
+Tableau Public link: https://public.tableau.com/app/profile/pearl3056/viz/fertility2100v5pm/Fertilityv_Contraceptivesv2
+
 Google Slides: https://docs.google.com/presentation/d/1eSoSxgsTULpK7yF4D4I-ac-L55_aBKueAE6wdizh7bk/edit?usp=sharing
+
